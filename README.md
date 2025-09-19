@@ -5,9 +5,9 @@ It implements the **Lagrange Elementary Optimization (LEO)** algorithm for solvi
 
 ---
 
-## 🎓 Author & Acknowledgement
-- **Project / Collaboration**: *Yousif N. Abbas*  
-- **Project Owner (M.Sc. Research Student)**: *Hassanein Jameel*  
+## 🎓 Author & Acknowledgement 
+- **Project Owner (M.Sc. Research Student)**: *Hassanein Jameel*
+- **Project / Collaboration**: *Yousif N. Abbas* (Refactoring and Code Optimizations)
 - Based on the work of **Aso M. Aladdin & Tarik A. Rashid**
 
 ## 📂 Project Structure
