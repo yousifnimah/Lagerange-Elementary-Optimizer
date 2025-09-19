@@ -26,7 +26,7 @@ It implements the **Lagrange Elementary Optimization (LEO)** algorithm for solvi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leo-optimizer.git
+   git clone https://github.com/yousifnimah/Lagerange-Elementary-Optimizer.git
    cd leo-optimizer
    ```
 
